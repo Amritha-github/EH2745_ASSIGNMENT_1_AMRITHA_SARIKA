@@ -28,6 +28,4 @@ For the purpose of storing the unique characteristics of each piece of equipment
 5. Graph Traversal has been done.
 6. The network is plotted with the help of Pandapower.
 
-Reference: We have referred to some codes from the GitHub Repository.
-
-Assignment Note: The following code is my original work. I have referred to external sources and repositories for information and inspiration, but the code implementation and logic are entirely my own. 
+Reference: We have referred to some codes from the GitHub Repository. The following code is my original work. I have referred to external sources and repositories for information and inspiration, but the code implementation and logic are entirely my own. 
